@@ -61,6 +61,6 @@ El proyecto utiliza un conjunto de datos proporcionado por Adalab que contiene i
 
 Este proyecto ha sido realizado como parte del bootcamp de Data Analytics de Adalab. Sus autoras son:
 
-- Jacqueline_Yusty @jacquelineyusty  [id]: <https://github.com/jacquelineyusty/>  "@jacquelineyusty"
-- María Ibáñez @mariaie896 [id]: <https://github.com/mariaie896/>  "@mariaie896"
-- Ana Boyero @anaboyero [id]: <https://github.com/anaboyero/>  "@anaboyero"
+- Jacqueline_Yusty: <https://github.com/jacquelineyusty/> 
+- María Ibáñez <https://github.com/mariaie896/> 
+- Ana Boyero <https://github.com/anaboyero/> 
