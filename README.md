@@ -19,7 +19,9 @@ Contiene los archivos de datos brutos (raw) que se han procesado durante el proy
 - HR RAW DATA.csv (brutos)
 - df_limpio_nulos_gestionados.csv (limpios y completos)
 - 
-NOTEBOOKS: Archivos donde hemos desarrollado el análisis y las transformaciones de datos.
+NOTEBOOKS: 
+
+Archivos donde hemos desarrollado el análisis y las transformaciones de datos.
 
 - gestion_de_nulos_y_limpieza_completo
 - creacion_bbdd
@@ -33,18 +35,18 @@ El informe final para el cliente.
 ### Requisitos Previos
 Antes de comenzar con este proyecto, es necesario tener instalados los siguientes paquetes:
 
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
 
 
 ### Conjunto de Datos y objetivo
 El proyecto utiliza un conjunto de datos proporcionado por Adalab que contiene información referente a los trabajadores de la empresa ABC Corporation. El objetivo es limpiar, transformar y preparar estos datos con la intención de conseguir insights para la retención de empleados. En concreto, nos planteamos la pregunta de si la satisfacción en el trabajo afecta directamente a la rotación de los empleados.
 
-### Metodologíaç
+### Metodología
 - Limpieza de datos: Identificación y eliminación de valores nulos, duplicados, y outliers.
 
 - Transformación de datos: Uso de pandas para la normalización de datos, creación de nuevas columnas, cambio de tipos de datos y agregación de información.
@@ -59,6 +61,6 @@ El proyecto utiliza un conjunto de datos proporcionado por Adalab que contiene i
 
 Este proyecto ha sido realizado como parte del bootcamp de Data Analytics de Adalab. Sus autoras son:
 
-- Jacqueline_Yusty @jacquelineyusty
-- María Ibáñez @mariaie896
-- Ana Boyero @anaboyero
+- Jacqueline_Yusty @jacquelineyusty  [id]: <https://github.com/jacquelineyusty/>  "@jacquelineyusty"
+- María Ibáñez @mariaie896 [id]: <https://github.com/mariaie896/>  "@mariaie896"
+- Ana Boyero @anaboyero [id]: <https://github.com/anaboyero/>  "@anaboyero"
